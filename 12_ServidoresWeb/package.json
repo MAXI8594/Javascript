@@ -1,0 +1,18 @@
+{
+  "name": "12_servidoresweb",
+  "version": "1.0.0",
+  "description": "Practica con servidor web en nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
